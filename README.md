@@ -1,5 +1,9 @@
 # Grazioso Salvare Rescue System
 
+## Project Structure
+- src/ contains all Java class files
+- Driver.java is the main entry point
+  
 ## Description
 This is a Java-based application developed for Grazioso Salvare, a search-and-rescue animal training company. The program manages rescue animals by storing and organizing their information using object-oriented programming principles.
 
