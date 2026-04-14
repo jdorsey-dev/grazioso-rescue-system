@@ -5,7 +5,7 @@
 - Driver.java is the main entry point
   
 ## Description
-This is a Java-based application developed for Grazioso Salvare, a search-and-rescue animal training company. The program manages rescue animals by storing and organizing their information using object-oriented programming principles.
+This is student project for a Java-based application developed for Grazioso Salvare, a fictional search-and-rescue animal training company. The program manages rescue animals by storing and organizing their information using object-oriented programming principles.
 
 ## Features
 - Stores and manages rescue animal data
